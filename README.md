@@ -2,7 +2,7 @@
 
 **01. Multi-Agent Researcher and Writer - DeepLearning.AI**
 
-- **Agent-Based Workflow:** The project defines different agents—Planner, Writer, and Editor—each with specific roles. (Uses CrewAI Tool)
+- **Agent-Based Workflow:** The project defines different agents—Planner, Writer, and Editor—each with specific roles. (Uses CrewAI Framework)
 
 - **Content Planning:** The Planner Agent gathers relevant information, identifies key trends, and outlines the article structure.
 
