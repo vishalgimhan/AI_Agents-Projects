@@ -16,7 +16,7 @@
 
 - This project implements multi-agent automation for customer support using AI-powered agents that collaborate to provide efficient and high-quality responses. The system consists of multiple agents with distinct roles—such as Support Representative and Quality Assurance Specialist—working together to resolve inquiries, ensure response quality, and enhance customer interactions.
 
-**Tools Used in the Project:**
+**- Tools Used in the Project:**
 ✅ CrewAI – AI-driven multi-agent framework for task automation. 
 ✅ LangChain – Language model orchestration for AI reasoning and response generation. 
 ✅ Groq API – AI model integration for advanced LLM-driven interactions. 
@@ -25,7 +25,7 @@
 ✅ ScrapeWebsiteTool – Web scraping tool to extract relevant customer support data. 
 ✅ Hugging Face Embeddings – Enhancing AI knowledge retention with sentence embeddings.
 
-**Key Features of the Project:**
+**- Key Features of the Project:**
 🔹 Automated AI Support Representative – Provides friendly and knowledgeable customer assistance. 
 🔹 Quality Assurance AI Agent – Ensures responses are accurate, complete, and helpful. 
 🔹 Memory Integration – AI agents retain past interactions to improve future responses. 
