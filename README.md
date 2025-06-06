@@ -41,3 +41,14 @@
 - **Automated Lead Profiling**: Agents extract and analyze company data (industry sector, key personnel, milestones). Sentiment analysis ensures positive and engaging communication strategies. Uses SerperDevTool for real-time data retrieval.
 
 - **Personalized Outreach Generation**: AI-powered messaging tailored to decision-makers. Customizable messaging strategies for enterprises, small businesses, and startups.
+
+**04. Multi-Agent Collaboration for Financial Analysis**
+
+- This project utilizes multi-agent collaboration to enhance financial analysis and trading strategy development. It is structured around CrewAI, a framework for coordinating intelligent agents, with LangChain, Hugging Face for Embeddings, and Groq for the LLM access. SerperDevTool & ScrapeWebsiteTool for Web scraping and search utilities.
+- The Process class in Agents helps to delegate the workflow to the Agents (kind of like a Manager at work)
+
+- Agent-Based Architecture:
+🔹 Data Analyst Agent: Monitors real-time market data and applies machine learning to predict trends.
+🔹 Trading Strategy Developer: Designs and tests trading strategies using quantitative analysis.
+🔹 Trade Advisor: Suggests optimal execution strategies based on market conditions.
+🔹 Risk Advisor: Evaluates potential risks and recommends mitigation strategies.
