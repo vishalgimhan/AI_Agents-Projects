@@ -52,3 +52,13 @@
 ▪ Risk Advisor: Evaluates potential risks and recommends mitigation strategies.
 
 ◦ Workflow Delegation: The "Process class" in Agents assists in delegating the workflow to the Agents, functioning akin to a manager.
+
+**04. Tailor Job Application with AI Agents - DeepLearningAI**
+
+◦ Purpose: Automated Resume Optimization: AI agents analyze job descriptions and tailor resumes accordingly.
+
+◦ Tech Stack: CrewAI Framework for multi-agent orchestration, Hugging Face API for open-source models, SerperDevTool employed for real-time data retrieval.
+
+◦ Agents are defined for different tasks, including job market research, profile generation, resume enhancement, and interview preparation. The system runs multiple agents in sequence to refine the job application.
+
+◦ Outputs include a tailored resume and a document with interview questions and talking points.
